@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reishell Fernández</h1>
-<h3 align="center">A Informatics Engineering Student</h3>
+<h3 align="center"> Informatics Engineering Student</h3>
 
 - 🌱 I’m currently learning **AWS and Javascript**
 
